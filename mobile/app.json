@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Proffy",
+    "slug": "proffy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "devfactor.proffy",
+      "versionCode": 1},
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "sdkVersion": "38.0.0",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  }
+}
